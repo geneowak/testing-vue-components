@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`can add fruits to basket with DOM 1`] = `
+<div>
+  <h1>Fruit Basket</h1> <input type="text"> <button>Add Fruit</button>
+  <ul class="fruits">
+    <li>
+      pear
+    </li>
+  </ul>
+</div>
+`;
